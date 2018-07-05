@@ -5,3 +5,5 @@ Commands to run sample
 
   - npm run build
   - npm run server
+  
+  ![alt text](https://github.com/rkpuri/my-ekart/blob/master/public/assets/ekart-screenshot.png)
